@@ -1,13 +1,13 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cf-worker-api",
+  "name": "alapi",
   "main": "src/index.ts",
   "compatibility_date": "2025-05-25",
   "compatibility_flags": [
     "nodejs_compat"
   ],
   "vars": {
-    "MAIN_URLS": "api.oplist.org",
+    "MAIN_URLS": "alapi.chirmyram.com",
     "onedrive_uid": "",
     "onedrive_key": "",
     "alicloud_uid": "",
